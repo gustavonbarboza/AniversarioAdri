@@ -20,7 +20,7 @@ body {
   background-color: rgba(53, 64, 139, 0.9);
   width: 90%;
   max-width: 100%; /* Garante que a largura não ultrapasse 100% */
-  height: 70vh;
+  height: 80%;
   position: fixed;
   top: 50%;
   left: 50%;
