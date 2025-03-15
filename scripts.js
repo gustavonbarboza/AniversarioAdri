@@ -4,7 +4,7 @@ document.getElementById("startButton").addEventListener("click", function() {
 
 document.getElementById("submitAnswer").addEventListener("click", function() {
   const senhaDigitada = document.getElementById("answer").value;
-  const senhaCorreta = "15/03/2001";
+  const senhaCorreta = "02162324";
 
   if (senhaDigitada === senhaCorreta) {
     document.getElementById("errorMessage").style.display = "none";
